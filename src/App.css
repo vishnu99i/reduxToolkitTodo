@@ -13,14 +13,6 @@ h1{
   color: aliceblue;
 }
 
-.content{
-  display: grid;
-  grid-template-columns: 45% 45% 10%;
-  width: 100vw;
-  box-sizing: border-box;
-  padding-right: 10px;
-}
-
 .logo {
   height: 6em;
   padding: 1.5em;
