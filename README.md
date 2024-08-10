@@ -16,4 +16,4 @@ React Redux Toolkit TODO App
 5) Github  
 6) Vercel
 
-Click here to view **[Live Application]([https://www.markdownguide.org](https://redux-toolkit-todo-psi.vercel.app/))**
+Click here to view [Live Application](https://redux-toolkit-todo-psi.vercel.app/)
